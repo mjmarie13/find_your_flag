@@ -18,7 +18,7 @@ div.title_leader {
   -webkit-text-fill-color: transparent;
 }
 div.pantitle {
-  background: linear-gradient(to bottom, #d12d64, #d5e032, #2c85ce);
+  background: linear-gradient(to bottom, #eb0e45, #e4d82f, #2c85ce);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -26,7 +26,12 @@ h2 {
   font-size: 70px;
 }
 div.title_leader.l {
-  background: linear-gradient(to bottom, #d12d64, #d5e032, #2c85ce);
+  background: linear-gradient(to bottom, #eb0e45, #e4d82f, #2c85ce);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+.pan-flag {
+  border-radius: 20px;
+  height: 300px;
+  width:300px
 }
