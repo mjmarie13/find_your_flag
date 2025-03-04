@@ -35,3 +35,12 @@ div.title_leader.l {
   height: 300px;
   width:300px
 }
+div.my-flexbox{
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+.pan-drawing {
+  width: auto;
+  height: 200%;
+}
