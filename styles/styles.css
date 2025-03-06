@@ -18,7 +18,7 @@ div.title_leader {
   -webkit-text-fill-color: transparent;
 }
 div.pantitle {
-  background: linear-gradient(to bottom, #eb0e45, #e4d82f, #2c85ce);
+  background: linear-gradient(to bottom, #eb0e45, #e4d82f, #57b3ff);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -41,6 +41,18 @@ flex-wrap: wrap;
 justify-content: space-evenly;
 }
 .pan-drawing {
-  width: auto;
-  height: 200%;
+  width: 250px;
+  height: 250px;
+}
+.pan-animal {
+  width:250px;
+  height:250px;
+}
+.pan-merch {
+  width:150px;
+  height:230px;
+}
+.pan-cat {
+  width:200px;
+  height: 200px
 }
