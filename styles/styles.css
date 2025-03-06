@@ -56,3 +56,11 @@ justify-content: space-evenly;
   width:200px;
   height: 200px
 }
+.pan-phone {
+  width: 250px;
+  height: 250px;
+}
+.pan-pin {
+  width:250px;
+  height: 250px;
+}
