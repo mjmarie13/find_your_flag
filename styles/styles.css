@@ -1,9 +1,7 @@
 body{
-  background-image: url("./images/flags/pride.jpg");
-  background-position: center;
-  background-repeat: repeat-y;
-  background-size: cover;
-  height: 100%;
+    --color: oklch(63% 0.1381 0);
+    background: linear-gradient(90deg in oklch longer hue, var(--color), var(--color));
+    --color: oklch(78.81% 0.1056 0);
   padding-left: 100px;
 }
 div.title_leader {
@@ -18,7 +16,7 @@ div.title_leader {
   -webkit-text-fill-color: transparent;
 }
 div.pantitle {
-  background: linear-gradient(to bottom, #eb0e45, #e4d82f, #57b3ff);
+  background: linear-gradient(to bottom, #eb0e45, #e4d82f, #035191);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -63,4 +61,16 @@ justify-content: space-evenly;
 .pan-pin {
   width:250px;
   height: 250px;
+}
+.pan-collection{
+  width:250px;
+  height:250px;
+}
+.pan-dragon{
+  width:250px;
+  height:250px;
+}
+.pan-bird{
+  width:250px;
+  height:250px;
 }
