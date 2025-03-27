@@ -4,7 +4,7 @@ body{
     --color: oklch(78.81% 0.1056 0);
   padding-left: 100px;
 }
-div.title_leader {
+div.title-leader {
   margin: auto ;
   width: 30%;
   padding: 10px;
@@ -15,62 +15,13 @@ div.title_leader {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-div.pantitle {
-  background: linear-gradient(to bottom, #eb0e45, #e4d82f, #035191);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
 h2 {
   font-size: 70px;
 }
-div.title_leader.l {
-  background: linear-gradient(to bottom, #eb0e45, #e4d82f, #2c85ce);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+a {
+  text-decoration: underline overline;
 }
-.pan-flag {
-  border-radius: 20px;
-  height: 300px;
-  width:300px
-}
-div.my-flexbox{
-display:flex;
-flex-wrap: wrap;
-justify-content: space-evenly;
-}
-.pan-drawing {
+.huh{
+  height: 250px;
   width: 250px;
-  height: 250px;
-}
-.pan-animal {
-  width:250px;
-  height:250px;
-}
-.pan-merch {
-  width:150px;
-  height:230px;
-}
-.pan-cat {
-  width:200px;
-  height: 200px
-}
-.pan-phone {
-  width: 250px;
-  height: 250px;
-}
-.pan-pin {
-  width:250px;
-  height: 250px;
-}
-.pan-collection{
-  width:250px;
-  height:250px;
-}
-.pan-dragon{
-  width:250px;
-  height:250px;
-}
-.pan-bird{
-  width:250px;
-  height:250px;
 }

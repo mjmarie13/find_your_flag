@@ -1,0 +1,54 @@
+body{
+  background-image: linear-gradient(to bottom, rgb(236, 56, 86), rgb(230, 230, 107), rgb(53, 99, 226));
+}
+.pan-flag {
+    border-radius: 20px;
+    height: 300px;
+    width:300px
+  }
+  div.my-flexbox{
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  }
+  .pan-drawing {
+    width: 250px;
+    height: 250px;
+  }
+  .pan-animal {
+    width:250px;
+    height:250px;
+  }
+  .pan-merch {
+    width:150px;
+    height:230px;
+  }
+  .pan-cat {
+    width:200px;
+    height: 200px
+  }
+  .pan-phone {
+    width: 250px;
+    height: 250px;
+  }
+  .pan-pin {
+    width:250px;
+    height: 250px;
+  }
+  .pan-collection{
+    width:250px;
+    height:250px;
+  }
+  .pan-dragon{
+    width:250px;
+    height:250px;
+  }
+  .pan-bird{
+    width:250px;
+    height:250px;
+  }
+  div.pantitle {
+    background: linear-gradient(to bottom, #bb0935, #f5e502, #035191);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
