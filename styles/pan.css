@@ -1,5 +1,5 @@
 body{
-  background-image: linear-gradient(to bottom, rgb(236, 56, 86), rgb(230, 230, 107), rgb(53, 99, 226));
+  background: linear-gradient(to right, rgb(255, 30, 140) 10%, rgb(255, 102, 57), rgb(255, 230, 29) 40%, rgb(255, 230, 29), rgb(255, 230, 29) 60%, rgb(87, 229, 98), rgb(31, 179, 253) 85%, rgb(31, 179, 253), rgb(31, 179, 253));
 }
 .pan-flag {
     border-radius: 20px;
