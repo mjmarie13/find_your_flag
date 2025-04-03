@@ -11,7 +11,7 @@ div.title-leader {
   padding-bottom: 30px;
   writing-mode: vertical-lr;
   text-orientation: upright;
-  background: linear-gradient(to bottom, #ef5350, #f48fb1, #7e57c2, #2196f3, #26c6da, #43a047, #eeff41, #f9a825, #ff5722);
+  background: linear-gradient(to bottom, rgb(207, 70, 72), rgb(238, 110, 64), rgb(224, 220, 81) 27%, rgb(99, 199, 32), rgb(86, 113, 197), rgb(97, 55, 155));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -24,4 +24,11 @@ a {
 .huh{
   height: 250px;
   width: 250px;
+  float: right;
+}
+.pan-link {
+  background: linear-gradient(to right, #db1943, #fcee74, #73aafc);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display:inline-block;
 }

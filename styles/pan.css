@@ -48,7 +48,7 @@ body{
     height:250px;
   }
   div.pantitle {
-    background: linear-gradient(to bottom, #bb0935, #f5e502, #035191);
+    background: linear-gradient(to bottom, #bb0935, #e7dc42, #035191);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
   }
