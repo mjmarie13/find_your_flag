@@ -1,3 +1,8 @@
 body {
  background: linear-gradient(to right, rgb(213, 44, 0), rgb(226, 150, 136), rgb(255, 255, 255) 45%, rgb(255, 255, 255), rgb(255, 255, 255) 55%, rgb(210, 127, 164), rgb(162, 2, 98));
 }
+.les-flag {
+    border-radius: 30px;
+    height: 300px;
+    width: 300px;
+}
