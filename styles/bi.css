@@ -1,3 +1,12 @@
 body{
     background: linear-gradient(to right, rgb(255, 0, 128), rgb(200, 37, 157), rgb(140, 71, 153), rgb(68, 46, 159), rgb(0, 50, 160));
 }
+.bi-flag {
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+}
+.bi-girl {
+    width: 300px;
+    height: 350px;
+}
