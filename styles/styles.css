@@ -5,9 +5,7 @@ body{
   padding-left: 100px;
 }
 div.title-leader {
-  margin: auto ;
   width: 30%;
-  padding: 10px;
   padding-bottom: 30px;
   writing-mode: vertical-lr;
   text-orientation: upright;
@@ -31,4 +29,13 @@ a {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   display:inline-block;
+}
+.gay-girl-flexbox {
+  display:flex;
+  justify-content:flex-start;
+}
+.gay-girl {
+  height: 500px;
+  width: 450px;
+  border-radius: 20px;
 }
